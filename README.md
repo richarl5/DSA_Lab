@@ -6,3 +6,5 @@ Exercises from Dsa subject:
     - Calculates area of geometric figures.
 * Calculator:
     - Testing calculator using jUnit framework.
+* Factory:
+    - Implementing singleton.
