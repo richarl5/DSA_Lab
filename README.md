@@ -10,3 +10,5 @@ Exercises from Dsa subject:
     - Implementing singleton.
 * i18nManager:
     - Implementing manager of resources bundle.
+* DAO:
+    - Implementing data access object.
