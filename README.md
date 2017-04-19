@@ -8,3 +8,5 @@ Exercises from Dsa subject:
     - Testing calculator using jUnit framework.
 * Factory:
     - Implementing singleton.
+* i18nManager:
+    - Implementing manager of resources bundle.
