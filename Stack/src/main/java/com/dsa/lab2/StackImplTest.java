@@ -3,7 +3,7 @@ package com.dsa.lab2;
 public class StackImplTest {
 
     public static void testIntegerPush() {
-        Stack<Integer> st = new StackImpl<>(5);
+        Stack<Integer> st = new StackImpl<Integer>(5);
         try {
             st.push(1);
             st.push(2);
@@ -17,7 +17,7 @@ public class StackImplTest {
     }
 
     public static void testStringPop() {
-        Stack<String> st = new StackImpl<>(3);
+        Stack<String> st = new StackImpl<String>(3);
         try {
             st.push("1");
             st.push("2");

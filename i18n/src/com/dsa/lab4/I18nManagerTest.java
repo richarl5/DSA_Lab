@@ -8,7 +8,7 @@ public class I18nManagerTest {
 
     @org.junit.Test (expected = java.util.MissingResourceException.class)
     public void testFR() throws Exception {
-        String value = I18nManager.getInstance().getData("T1","fr");
+        I18nManager.getInstance().getData("T1","fr");
     }
 
     @org.junit.Test
